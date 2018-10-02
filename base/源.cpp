@@ -1001,7 +1001,7 @@ void control::base64_out(int a)
 	}
 }
 
-int main()
+int main()							//³ÌÐò¿ªÊ¼
 {
 	control user;
 	while (1)
